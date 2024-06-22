@@ -10,5 +10,13 @@ Food Product : Products are categorized into various sections including Salad, R
 User to food: Users can sign up, log in, and update profile delivery information.
 
 Admin Dashboard: Admin users have upload a food product and customer orders
+
+Technologies Used
+Frontend: React.js, Redux, HTML, CSS, JavaScript,Bootstrap
+Backend: Node.js, Express.js, MongoDB
+Authentication: JSON Web Tokens (JWT)
+Database: MongoDB Atlas
+Deployment: Render (for backend), Vercel (for frontend)
+Version Control: Git, GitHub
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
