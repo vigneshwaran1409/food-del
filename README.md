@@ -18,5 +18,7 @@ Authentication: JSON Web Tokens (JWT)
 Database: MongoDB Atlas
 Deployment: Render (for backend), Vercel (for frontend)
 Version Control: Git, GitHub
+
+Thank you for checking out the Food Delivery App.
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
